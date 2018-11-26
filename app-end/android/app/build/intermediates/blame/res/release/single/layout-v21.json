@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/huangruzhe/gitlabSource/blockChain/healthbao2/src/app-end/android/app/build/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/huangruzhe/gitlabSource/blockChain/healthbao2/src/app-end/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/huangruzhe/gitlabSource/blockChain/healthbao2/src/app-end/android/app/build/intermediates/res/merged/release/layout-v21/notification_action.xml",
+        "source": "/Users/huangruzhe/gitlabSource/blockChain/healthbao2/src/app-end/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/huangruzhe/gitlabSource/blockChain/healthbao2/src/app-end/android/app/build/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/huangruzhe/gitlabSource/blockChain/healthbao2/src/app-end/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/huangruzhe/gitlabSource/blockChain/healthbao2/src/app-end/android/app/build/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/huangruzhe/gitlabSource/blockChain/healthbao2/src/app-end/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout-v21/notification_template_custom_big.xml"
+    }
+]

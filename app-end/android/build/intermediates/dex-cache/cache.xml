@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/huangruzhe/gitlabSource/blockChain/healthbao2/src/app-end/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/huangruzhe/gitlabSource/blockChain/healthbao2/src/app-end/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_3a646d9ee092b1dd53dfdcd3f04432fe2fe830f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huangruzhe/gitlabSource/blockChain/healthbao2/src/app-end/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/Users/huangruzhe/gitlabSource/blockChain/healthbao2/src/app-end/android/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_a39d2b13bdda56793a659f265a9967ac39930956.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huangruzhe/gitlabSource/blockChain/healthbao2/src/app-end/android/app/libs/SocialSDK_Sina_Full.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="16e075d2e6ef91698dd865149caaa41f98e7f15b">
+        <dex dex="/Users/huangruzhe/gitlabSource/blockChain/healthbao2/src/app-end/android/app/build/intermediates/pre-dexed/debug/SocialSDK_Sina_Full_f5c0448ac9bda88ebf09e8b8c66ed86c89420df3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huangruzhe/gitlabSource/blockChain/healthbao2/src/app-end/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/Users/huangruzhe/gitlabSource/blockChain/healthbao2/src/app-end/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.0_e7be7e01949eda602c52c21af7872b2e81d8abc9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huangruzhe/gitlabSource/blockChain/healthbao2/src/app-end/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/huangruzhe/gitlabSource/blockChain/healthbao2/src/app-end/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_8a421c9bf829b118bfdd792cf203de7773643c4f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huangruzhe/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/huangruzhe/gitlabSource/blockChain/healthbao2/src/app-end/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_6d9e7b883f39446333562372e76b4bcc10cc340a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huangruzhe/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/huangruzhe/gitlabSource/blockChain/healthbao2/src/app-end/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_1dd359805a1d2a2d561d1ee5faa7dffb8cc3534c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huangruzhe/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/huangruzhe/gitlabSource/blockChain/healthbao2/src/app-end/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_d336d4443a674b96c714d41d9db3da949574791d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huangruzhe/gitlabSource/blockChain/healthbao2/src/app-end/android/app/libs/umeng-common-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e060c8f68adf0e8055c1f9796094bf3254462f74">
+        <dex dex="/Users/huangruzhe/gitlabSource/blockChain/healthbao2/src/app-end/android/app/build/intermediates/pre-dexed/debug/umeng-common-1.4.0_d15f75d6b139e620fbfdaced4f9cae3a0747c054.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huangruzhe/gitlabSource/blockChain/healthbao2/src/app-end/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/huangruzhe/gitlabSource/blockChain/healthbao2/src/app-end/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_c56eb012a69f220730c28be567f08845b946dd2d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huangruzhe/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/huangruzhe/gitlabSource/blockChain/healthbao2/src/app-end/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_24888be58046965771ed480630403af39f36a2d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huangruzhe/gitlabSource/blockChain/healthbao2/src/app-end/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/Users/huangruzhe/gitlabSource/blockChain/healthbao2/src/app-end/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.0_e4c8577f2cbbc66f3a03a740b712ac2e70210ec5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huangruzhe/gitlabSource/blockChain/healthbao2/src/app-end/android/app/libs/weiboSDKCore_3.1.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f3617ce51258bf3ec0fe2503e3c0a920040b1b53">
+        <dex dex="/Users/huangruzhe/gitlabSource/blockChain/healthbao2/src/app-end/android/app/build/intermediates/pre-dexed/debug/weiboSDKCore_3.1.4_c66f970a13563d4281127a95ac012def759fcaa3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huangruzhe/gitlabSource/blockChain/healthbao2/src/app-end/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.54.4/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/huangruzhe/gitlabSource/blockChain/healthbao2/src/app-end/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_37868a58c63241ff0b99d7f7fff73a113b43137f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huangruzhe/gitlabSource/blockChain/healthbao2/src/app-end/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/huangruzhe/gitlabSource/blockChain/healthbao2/src/app-end/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_6d5d7471504127b2c109bb26f993f129e5f38d0c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huangruzhe/gitlabSource/blockChain/healthbao2/src/app-end/android/app/libs/utdid4all-1.1.5.3_proguard.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="989c3bb13060da1e3154bfe00236f76453a2725f">
+        <dex dex="/Users/huangruzhe/gitlabSource/blockChain/healthbao2/src/app-end/android/app/build/intermediates/pre-dexed/debug/utdid4all-1.1.5.3_proguard_37a4be60e9fb8418128e629eed62a392355a6a93.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huangruzhe/gitlabSource/blockChain/healthbao2/src/app-end/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/huangruzhe/gitlabSource/blockChain/healthbao2/src/app-end/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_56036eeb49202bfec4f32c30b8f6f3d99b926845.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huangruzhe/gitlabSource/blockChain/healthbao2/src/app-end/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/Users/huangruzhe/gitlabSource/blockChain/healthbao2/src/app-end/android/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_d7d76918abc414bf33c5564a131b64d6b2c33374.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huangruzhe/gitlabSource/blockChain/healthbao2/src/app-end/android/app/libs/umeng_social_api.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="df6b1f7e5fa206435ee14d409067b2612ce94016">
+        <dex dex="/Users/huangruzhe/gitlabSource/blockChain/healthbao2/src/app-end/android/app/build/intermediates/pre-dexed/debug/umeng_social_api_8eb95dcfbeeb080610f5626dd59de46853186558.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huangruzhe/gitlabSource/blockChain/healthbao2/src/app-end/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/huangruzhe/gitlabSource/blockChain/healthbao2/src/app-end/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_27ef285898f2c5621effa44ecb7aabe46a1307a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huangruzhe/gitlabSource/blockChain/healthbao2/src/app-end/android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/Users/huangruzhe/gitlabSource/blockChain/healthbao2/src/app-end/android/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.0_fb1e48b517994bbdeffbb1f903ccbbf15c318992.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huangruzhe/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.1.0/2fdf84dedcaaeabb9d70cde9dbb8aad4eccb80a1/rxjava-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2fdf84dedcaaeabb9d70cde9dbb8aad4eccb80a1">
+        <dex dex="/Users/huangruzhe/gitlabSource/blockChain/healthbao2/src/app-end/android/app/build/intermediates/pre-dexed/debug/rxjava-2.1.0_8cb224cb78fac120a468c7db453dacd9bc778b85.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huangruzhe/gitlabSource/blockChain/healthbao2/src/app-end/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.54.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9236445249b688377917bbf182bb651ba5a9c5f1">
+        <dex dex="/Users/huangruzhe/gitlabSource/blockChain/healthbao2/src/app-end/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.54.4_a9b3c30f584d2f5fb8e1c24618cdbed51d9af706.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huangruzhe/gitlabSource/blockChain/healthbao2/src/app-end/android/app/libs/umeng-analytics-7.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="98d65513ec69e251f6ab703d5204423d5fac3174">
+        <dex dex="/Users/huangruzhe/gitlabSource/blockChain/healthbao2/src/app-end/android/app/build/intermediates/pre-dexed/debug/umeng-analytics-7.4.0_de4ab4e4fd1fa0f79de7835e043ec56bf841ba4a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huangruzhe/gitlabSource/blockChain/healthbao2/src/app-end/android/app/build/intermediates/exploded-aar/jkb/react-native-image-crop-picker/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f41d0dda57898295f2c339c0af9dbcce2cf7a1d0">
+        <dex dex="/Users/huangruzhe/gitlabSource/blockChain/healthbao2/src/app-end/android/app/build/intermediates/pre-dexed/debug/jkb-react-native-image-crop-picker-unspecified_0c4581361efbf8c4769725e2de26fe7288148695.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huangruzhe/gitlabSource/blockChain/healthbao2/src/app-end/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/huangruzhe/gitlabSource/blockChain/healthbao2/src/app-end/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_a5686537f7bb36454ed6d33e8b20a3cce7dce70a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huangruzhe/gitlabSource/blockChain/healthbao2/src/app-end/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/Users/huangruzhe/gitlabSource/blockChain/healthbao2/src/app-end/android/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_94be3b2c2c35873ed6956cbf4b77462e7bbdc7e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huangruzhe/gitlabSource/blockChain/healthbao2/src/app-end/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/Users/huangruzhe/gitlabSource/blockChain/healthbao2/src/app-end/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.0_816f28d1acb6bacea59afa71ca5bfb0848956d42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huangruzhe/gitlabSource/blockChain/healthbao2/src/app-end/android/app/libs/umeng_social_tool.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1a031eec9a5c17ecd91e3b674dd17720d6d9e5e9">
+        <dex dex="/Users/huangruzhe/gitlabSource/blockChain/healthbao2/src/app-end/android/app/build/intermediates/pre-dexed/debug/umeng_social_tool_f2748ad23fd7c59c966dafae63eed1e8a292d135.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huangruzhe/gitlabSource/blockChain/healthbao2/src/app-end/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/Users/huangruzhe/gitlabSource/blockChain/healthbao2/src/app-end/android/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_4e7dda80823663d9332cdd9cc63721ebdffe33f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huangruzhe/gitlabSource/blockChain/healthbao2/src/app-end/android/app/libs/SocialSDK_WeiXin_Full.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5e1897f80aab3f2bac1be4fc9cc10cc5e8c62a9a">
+        <dex dex="/Users/huangruzhe/gitlabSource/blockChain/healthbao2/src/app-end/android/app/build/intermediates/pre-dexed/debug/SocialSDK_WeiXin_Full_e480edd8f33d02d13e8dc34fd63b0d2e39d47f3c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huangruzhe/gitlabSource/blockChain/healthbao2/src/app-end/android/app/libs/umeng_social_net.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="df6ed2e34d8ed18bda56d3352d680bdd33a35f5d">
+        <dex dex="/Users/huangruzhe/gitlabSource/blockChain/healthbao2/src/app-end/android/app/build/intermediates/pre-dexed/debug/umeng_social_net_6bdab08ac092a109c74b76e23726112265eb67d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huangruzhe/gitlabSource/blockChain/healthbao2/src/app-end/android/app/libs/umeng_social_shareboard.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="950a5e72fd6c3bf2b8286bb1cfd38d547a3eeb30">
+        <dex dex="/Users/huangruzhe/gitlabSource/blockChain/healthbao2/src/app-end/android/app/build/intermediates/pre-dexed/debug/umeng_social_shareboard_3108e56690b2ade514f7c18db7cecc28280d6c71.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huangruzhe/gitlabSource/blockChain/healthbao2/src/app-end/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/huangruzhe/gitlabSource/blockChain/healthbao2/src/app-end/android/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_428ff67e70394b26a88149fe8829bb6bc3400bf2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huangruzhe/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/huangruzhe/gitlabSource/blockChain/healthbao2/src/app-end/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_6b03091ba113c499406e195e71d67ae269e869e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huangruzhe/gitlabSource/blockChain/healthbao2/src/app-end/android/app/libs/wechat-sdk-android-with-mta-1.1.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="379056fcb09a02bd0db722be359695ad88beb04d">
+        <dex dex="/Users/huangruzhe/gitlabSource/blockChain/healthbao2/src/app-end/android/app/build/intermediates/pre-dexed/debug/wechat-sdk-android-with-mta-1.1.6_deaf6a9f23561cebf0845b04d397eac166a805d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huangruzhe/gitlabSource/blockChain/healthbao2/src/app-end/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/huangruzhe/gitlabSource/blockChain/healthbao2/src/app-end/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.0_48640dc50ed96abbfe1f611e6f6a87e0acabac9c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huangruzhe/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/huangruzhe/gitlabSource/blockChain/healthbao2/src/app-end/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_2449c1d8ef8d1dd571ae55c7cec285c169deab5d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huangruzhe/gitlabSource/blockChain/healthbao2/src/app-end/android/app/libs/SocialSDK_QQ_Full.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="375d1fd83258a51de2658a81a6029393d0b459e8">
+        <dex dex="/Users/huangruzhe/gitlabSource/blockChain/healthbao2/src/app-end/android/app/build/intermediates/pre-dexed/debug/SocialSDK_QQ_Full_e2e1f726be65a194ea8d0fda8af7716d657c851e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huangruzhe/.gradle/caches/modules-2/files-2.1/org.reactivestreams/reactive-streams/1.0.0/14b8c877d98005ba3941c9257cfe09f6ed0e0d74/reactive-streams-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="14b8c877d98005ba3941c9257cfe09f6ed0e0d74">
+        <dex dex="/Users/huangruzhe/gitlabSource/blockChain/healthbao2/src/app-end/android/app/build/intermediates/pre-dexed/debug/reactive-streams-1.0.0_9a4b3896c39c458a991078b071043a83c86c313b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huangruzhe/gitlabSource/blockChain/healthbao2/src/app-end/android/app/build/intermediates/exploded-aar/com.github.yalantis/ucrop/2.2.1-native/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2e492787f157c13839c02e0b7293871dbaed9911">
+        <dex dex="/Users/huangruzhe/gitlabSource/blockChain/healthbao2/src/app-end/android/app/build/intermediates/pre-dexed/debug/com.github.yalantis-ucrop-2.2.1-native_a1c23c0579ff4d95b0d5b3b076887a1df64bcb1c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huangruzhe/gitlabSource/blockChain/healthbao2/src/app-end/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/Users/huangruzhe/gitlabSource/blockChain/healthbao2/src/app-end/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.0_96a5fbddf862304b860b7e254c5a43707c5ad816.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huangruzhe/gitlabSource/blockChain/healthbao2/src/app-end/android/app/libs/umeng_shareboard_widget.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a40bb78d5f05b7c01b3ab091324f1e5c78aa04fa">
+        <dex dex="/Users/huangruzhe/gitlabSource/blockChain/healthbao2/src/app-end/android/app/build/intermediates/pre-dexed/debug/umeng_shareboard_widget_919dd0b234efeafd7020e039e46ea9261cc4603b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huangruzhe/gitlabSource/blockChain/healthbao2/src/app-end/android/app/build/intermediates/exploded-aar/id.zelory/compressor/2.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6b1555196d65ffa1174f6f49efb2f278905f537a">
+        <dex dex="/Users/huangruzhe/gitlabSource/blockChain/healthbao2/src/app-end/android/app/build/intermediates/pre-dexed/debug/id.zelory-compressor-2.1.0_e90aa191673bee012d8621b1d8ada0d74790adfe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huangruzhe/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/huangruzhe/gitlabSource/blockChain/healthbao2/src/app-end/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_e595519fcdc7830afb899d33f4157f64527659d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huangruzhe/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/Users/huangruzhe/gitlabSource/blockChain/healthbao2/src/app-end/android/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.0_6a60b47c1891b4806d7c50d040a230125dd62c20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huangruzhe/gitlabSource/blockChain/healthbao2/src/app-end/android/app/build/intermediates/exploded-aar/jkb/react-native-splash-screen/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8157618a5b248f10354e1dbfa44ddef9e617da42">
+        <dex dex="/Users/huangruzhe/gitlabSource/blockChain/healthbao2/src/app-end/android/app/build/intermediates/pre-dexed/debug/jkb-react-native-splash-screen-unspecified_b5ceb6b7a2b7197769341d18f9bbe246ecd7bfc1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huangruzhe/gitlabSource/blockChain/healthbao2/src/app-end/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/Users/huangruzhe/gitlabSource/blockChain/healthbao2/src/app-end/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.0_d86906a4c6af24b9a3626258b54e63581c463c78.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huangruzhe/gitlabSource/blockChain/healthbao2/src/app-end/android/app/libs/open_sdk_r5781.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="cbac7d081542657d885efd7a529a9267d22ec080">
+        <dex dex="/Users/huangruzhe/gitlabSource/blockChain/healthbao2/src/app-end/android/app/build/intermediates/pre-dexed/debug/open_sdk_r5781_504e4284ab7b24f43db6c3613c96b6103e3ae68d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huangruzhe/gitlabSource/blockChain/healthbao2/src/app-end/android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/Users/huangruzhe/gitlabSource/blockChain/healthbao2/src/app-end/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.0_f1da62a6b8f94e4b604d34224c15a39b29b6a773.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huangruzhe/gitlabSource/blockChain/healthbao2/src/app-end/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/huangruzhe/gitlabSource/blockChain/healthbao2/src/app-end/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_7c4538bf27db36ca1a30f0dfbcb284854475270a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huangruzhe/gitlabSource/blockChain/healthbao2/src/app-end/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/Users/huangruzhe/gitlabSource/blockChain/healthbao2/src/app-end/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.0_39ba5e2b7aef72dff4da6ec3c2aee15357cd5777.jar" />
+    </item>
+
+</items>
